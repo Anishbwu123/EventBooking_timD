@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Conference 2025",
+    "date": "2025-10-10",
+    "time": "10:00",
+    "location": "Kolkata Convention Center",
+    "description": "A full-day event covering the latest in AI, Web, and Mobile tech. Network with industry leaders and learn about the future of technology.",
+    "price": 500,
+    "image": "https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg",
+    "category": "Technology"
+  },
+  {
+    "id": 2,
+    "title": "Startup Pitch Fest",
+    "date": "2025-11-05",
+    "time": "16:00",
+    "location": "Bangalore Startup Hub",
+    "description": "Networking and pitching session for early-stage startups. Find investors, partners, and mentors to help grow your business.",
+    "price": 300,
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg",
+    "category": "Business"
+  },
+  {
+    "id": 3,
+    "title": "Music Concert",
+    "date": "2025-12-20",
+    "time": "19:30",
+    "location": "Delhi Stadium",
+    "description": "Live music by top artists. Enjoy an evening of entertainment, high energy, and unforgettable performances.",
+    "price": 800,
+    "image": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg",
+    "category": "Entertainment"
+  }
+  
+]
