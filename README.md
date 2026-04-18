@@ -1,4 +1,4 @@
-Here’s a **recruiter-focused version** of your README — clean, direct, and written in a way that highlights your skills without sounding artificial.
+
 
 ---
 
