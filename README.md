@@ -72,6 +72,65 @@ src/
 
 ---
 
+
+## Data Structure (Local JSON)
+
+The app uses static JSON files to simulate backend responses. These are located in the `src/data` folder.
+
+###  Users (`users.json`)
+
+Used for local authentication:
+
+```json
+[
+  {
+    "id": 1,
+    "username": "john",
+    "password": "12345"
+  }
+]
+```
+
+**Fields:**
+
+* `id` → unique identifier
+* `username` → login username
+* `password` → plain text (for demo purposes only)
+
+---
+
+###  Events (`events.json`)
+
+Contains all event-related data displayed in the app:
+
+```json
+[
+  {
+    "id": 1,
+    "title": "Tech Conference 2025",
+    "date": "2025-10-10",
+    "time": "10:00",
+    "location": "Kolkata Convention Center",
+    "description": "A full-day event covering AI, Web, and Mobile tech.",
+    "price": 500,
+    "image": "https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg",
+    "category": "Technology"
+  }
+]
+```
+
+**Fields:**
+
+* `id` → unique event identifier
+* `title` → event name
+* `date` & `time` → schedule
+* `location` → venue details
+* `description` → event summary
+* `price` → ticket cost
+* `image` → remote image URL (used in UI)
+* `category` → used for filtering events
+
+
 ## Running the Project
 
 ```bash id="v96syq"
