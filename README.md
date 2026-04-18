@@ -93,15 +93,6 @@ npm run android
 
 ---
 
-## Possible Improvements
-
-- Backend/API integration
-- Payment gateway integration
-- Push notifications
-- Pagination and performance optimization for large datasets
-
----
-
 ## About
 
 This project was built as part of hands-on practice to strengthen real-world React Native development skills, with emphasis on writing maintainable code and building scalable UI patterns.
